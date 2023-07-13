@@ -74,6 +74,7 @@ public:
 int main() {
     vector<vector<int>> v = { {1,0},{0,3},{0,2},{3,2},{2,5 },{4,5},{5,6},{2,4} };
     Solution s;
+    cout << "test";
     cout<<s.canFinish(7, v);
 	return 0;
 }
