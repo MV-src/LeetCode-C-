@@ -91,6 +91,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "802. Find Eventual Safe Sta
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "207. Course Schedule", "207. Course Schedule\207. Course Schedule.vcxproj", "{76B22D4C-3171-4D73-AB6A-874095D863EF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1218. Longest Arithmetic Subsequence of Given Difference", "1218. Longest Arithmetic Subsequence of Given Difference\1218. Longest Arithmetic Subsequence of Given Difference.vcxproj", "{1022E438-6262-4491-981C-59C349C4621D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -451,6 +453,14 @@ Global
 		{76B22D4C-3171-4D73-AB6A-874095D863EF}.Release|x64.Build.0 = Release|x64
 		{76B22D4C-3171-4D73-AB6A-874095D863EF}.Release|x86.ActiveCfg = Release|Win32
 		{76B22D4C-3171-4D73-AB6A-874095D863EF}.Release|x86.Build.0 = Release|Win32
+		{1022E438-6262-4491-981C-59C349C4621D}.Debug|x64.ActiveCfg = Debug|x64
+		{1022E438-6262-4491-981C-59C349C4621D}.Debug|x64.Build.0 = Debug|x64
+		{1022E438-6262-4491-981C-59C349C4621D}.Debug|x86.ActiveCfg = Debug|Win32
+		{1022E438-6262-4491-981C-59C349C4621D}.Debug|x86.Build.0 = Debug|Win32
+		{1022E438-6262-4491-981C-59C349C4621D}.Release|x64.ActiveCfg = Release|x64
+		{1022E438-6262-4491-981C-59C349C4621D}.Release|x64.Build.0 = Release|x64
+		{1022E438-6262-4491-981C-59C349C4621D}.Release|x86.ActiveCfg = Release|Win32
+		{1022E438-6262-4491-981C-59C349C4621D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
