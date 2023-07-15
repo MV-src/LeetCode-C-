@@ -93,6 +93,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "207. Course Schedule", "207
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1218. Longest Arithmetic Subsequence of Given Difference", "1218. Longest Arithmetic Subsequence of Given Difference\1218. Longest Arithmetic Subsequence of Given Difference.vcxproj", "{1022E438-6262-4491-981C-59C349C4621D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1751. Maximum Number of Events That Can Be Attended II", "1751. Maximum Number of Events That Can Be Attended II\1751. Maximum Number of Events That Can Be Attended II.vcxproj", "{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -461,6 +463,14 @@ Global
 		{1022E438-6262-4491-981C-59C349C4621D}.Release|x64.Build.0 = Release|x64
 		{1022E438-6262-4491-981C-59C349C4621D}.Release|x86.ActiveCfg = Release|Win32
 		{1022E438-6262-4491-981C-59C349C4621D}.Release|x86.Build.0 = Release|Win32
+		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Debug|x64.ActiveCfg = Debug|x64
+		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Debug|x64.Build.0 = Debug|x64
+		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Debug|x86.Build.0 = Debug|Win32
+		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Release|x64.ActiveCfg = Release|x64
+		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Release|x64.Build.0 = Release|x64
+		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Release|x86.ActiveCfg = Release|Win32
+		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
