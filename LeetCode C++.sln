@@ -95,6 +95,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1218. Longest Arithmetic Su
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1751. Maximum Number of Events That Can Be Attended II", "1751. Maximum Number of Events That Can Be Attended II\1751. Maximum Number of Events That Can Be Attended II.vcxproj", "{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "445. Add Two Numbers II", "445. Add Two Numbers II\445. Add Two Numbers II.vcxproj", "{D23485C8-47C9-4EA8-A0AC-0F37B15A0121}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -471,6 +473,14 @@ Global
 		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Release|x64.Build.0 = Release|x64
 		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Release|x86.ActiveCfg = Release|Win32
 		{BC4A0D64-F5DC-4430-9FB0-F7F3560F786F}.Release|x86.Build.0 = Release|Win32
+		{D23485C8-47C9-4EA8-A0AC-0F37B15A0121}.Debug|x64.ActiveCfg = Debug|x64
+		{D23485C8-47C9-4EA8-A0AC-0F37B15A0121}.Debug|x64.Build.0 = Debug|x64
+		{D23485C8-47C9-4EA8-A0AC-0F37B15A0121}.Debug|x86.ActiveCfg = Debug|Win32
+		{D23485C8-47C9-4EA8-A0AC-0F37B15A0121}.Debug|x86.Build.0 = Debug|Win32
+		{D23485C8-47C9-4EA8-A0AC-0F37B15A0121}.Release|x64.ActiveCfg = Release|x64
+		{D23485C8-47C9-4EA8-A0AC-0F37B15A0121}.Release|x64.Build.0 = Release|x64
+		{D23485C8-47C9-4EA8-A0AC-0F37B15A0121}.Release|x86.ActiveCfg = Release|Win32
+		{D23485C8-47C9-4EA8-A0AC-0F37B15A0121}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
