@@ -60,7 +60,7 @@ public:
 };
 
 int main() {
-    vector<vector<int>> v = { {-1,1 },{10,11},{12,14},{3,4} };
+    vector<vector<int>> v = { {1,2},{2,3},{3,4},{1,3} };
     Solution s;
     cout << s.eraseOverlapIntervals(v);
     
