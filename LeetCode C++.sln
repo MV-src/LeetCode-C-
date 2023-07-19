@@ -99,6 +99,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "445. Add Two Numbers II", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "146. LRU Cache", "146. LRU Cache\146. LRU Cache.vcxproj", "{70687824-C0C6-4D65-9C71-D04DAD86074B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "435. Non-overlapping Intervals", "435. Non-overlapping Intervals\435. Non-overlapping Intervals.vcxproj", "{6B812DAC-180A-41E0-A9E7-36EA167C79B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -491,6 +493,14 @@ Global
 		{70687824-C0C6-4D65-9C71-D04DAD86074B}.Release|x64.Build.0 = Release|x64
 		{70687824-C0C6-4D65-9C71-D04DAD86074B}.Release|x86.ActiveCfg = Release|Win32
 		{70687824-C0C6-4D65-9C71-D04DAD86074B}.Release|x86.Build.0 = Release|Win32
+		{6B812DAC-180A-41E0-A9E7-36EA167C79B9}.Debug|x64.ActiveCfg = Debug|x64
+		{6B812DAC-180A-41E0-A9E7-36EA167C79B9}.Debug|x64.Build.0 = Debug|x64
+		{6B812DAC-180A-41E0-A9E7-36EA167C79B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B812DAC-180A-41E0-A9E7-36EA167C79B9}.Debug|x86.Build.0 = Debug|Win32
+		{6B812DAC-180A-41E0-A9E7-36EA167C79B9}.Release|x64.ActiveCfg = Release|x64
+		{6B812DAC-180A-41E0-A9E7-36EA167C79B9}.Release|x64.Build.0 = Release|x64
+		{6B812DAC-180A-41E0-A9E7-36EA167C79B9}.Release|x86.ActiveCfg = Release|Win32
+		{6B812DAC-180A-41E0-A9E7-36EA167C79B9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
