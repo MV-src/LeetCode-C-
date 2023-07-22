@@ -103,6 +103,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "435. Non-overlapping Interv
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "735. Asteroid Collision", "735. Asteroid Collision\735. Asteroid Collision.vcxproj", "{8D151E30-D473-480D-8650-DED2BC33B98B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "673. Number of Longest Increasing Subsequence", "673. Number of Longest Increasing Subsequence\673. Number of Longest Increasing Subsequence.vcxproj", "{B379B923-EF46-429A-B342-2F4E222D0F18}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "688. Knight Probability in Chessboard", "688. Knight Probability in Chessboard\688. Knight Probability in Chessboard.vcxproj", "{A3DC583D-B098-478F-8504-38844ED78D6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -511,6 +515,22 @@ Global
 		{8D151E30-D473-480D-8650-DED2BC33B98B}.Release|x64.Build.0 = Release|x64
 		{8D151E30-D473-480D-8650-DED2BC33B98B}.Release|x86.ActiveCfg = Release|Win32
 		{8D151E30-D473-480D-8650-DED2BC33B98B}.Release|x86.Build.0 = Release|Win32
+		{B379B923-EF46-429A-B342-2F4E222D0F18}.Debug|x64.ActiveCfg = Debug|x64
+		{B379B923-EF46-429A-B342-2F4E222D0F18}.Debug|x64.Build.0 = Debug|x64
+		{B379B923-EF46-429A-B342-2F4E222D0F18}.Debug|x86.ActiveCfg = Debug|Win32
+		{B379B923-EF46-429A-B342-2F4E222D0F18}.Debug|x86.Build.0 = Debug|Win32
+		{B379B923-EF46-429A-B342-2F4E222D0F18}.Release|x64.ActiveCfg = Release|x64
+		{B379B923-EF46-429A-B342-2F4E222D0F18}.Release|x64.Build.0 = Release|x64
+		{B379B923-EF46-429A-B342-2F4E222D0F18}.Release|x86.ActiveCfg = Release|Win32
+		{B379B923-EF46-429A-B342-2F4E222D0F18}.Release|x86.Build.0 = Release|Win32
+		{A3DC583D-B098-478F-8504-38844ED78D6D}.Debug|x64.ActiveCfg = Debug|x64
+		{A3DC583D-B098-478F-8504-38844ED78D6D}.Debug|x64.Build.0 = Debug|x64
+		{A3DC583D-B098-478F-8504-38844ED78D6D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3DC583D-B098-478F-8504-38844ED78D6D}.Debug|x86.Build.0 = Debug|Win32
+		{A3DC583D-B098-478F-8504-38844ED78D6D}.Release|x64.ActiveCfg = Release|x64
+		{A3DC583D-B098-478F-8504-38844ED78D6D}.Release|x64.Build.0 = Release|x64
+		{A3DC583D-B098-478F-8504-38844ED78D6D}.Release|x86.ActiveCfg = Release|Win32
+		{A3DC583D-B098-478F-8504-38844ED78D6D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
