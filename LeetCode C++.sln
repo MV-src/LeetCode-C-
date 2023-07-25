@@ -109,6 +109,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "688. Knight Probability in 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "50. Pow(x, n)", "50. Pow(x, n)\50. Pow(x, n).vcxproj", "{EF921E01-600A-43FA-9662-8F51C9DFAB7A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "852. Peak Index in a Mountain Array", "852. Peak Index in a Mountain Array\852. Peak Index in a Mountain Array.vcxproj", "{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -541,6 +543,14 @@ Global
 		{EF921E01-600A-43FA-9662-8F51C9DFAB7A}.Release|x64.Build.0 = Release|x64
 		{EF921E01-600A-43FA-9662-8F51C9DFAB7A}.Release|x86.ActiveCfg = Release|Win32
 		{EF921E01-600A-43FA-9662-8F51C9DFAB7A}.Release|x86.Build.0 = Release|Win32
+		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Debug|x64.ActiveCfg = Debug|x64
+		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Debug|x64.Build.0 = Debug|x64
+		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Debug|x86.Build.0 = Debug|Win32
+		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Release|x64.ActiveCfg = Release|x64
+		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Release|x64.Build.0 = Release|x64
+		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Release|x86.ActiveCfg = Release|Win32
+		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
