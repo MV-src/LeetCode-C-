@@ -111,6 +111,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "50. Pow(x, n)", "50. Pow(x,
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "852. Peak Index in a Mountain Array", "852. Peak Index in a Mountain Array\852. Peak Index in a Mountain Array.vcxproj", "{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1870. Minimum Speed to Arrive on Time", "1870. Minimum Speed to Arrive on Time\1870. Minimum Speed to Arrive on Time.vcxproj", "{A098852C-54B1-4D8A-A02C-502610840AC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -551,6 +553,14 @@ Global
 		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Release|x64.Build.0 = Release|x64
 		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Release|x86.ActiveCfg = Release|Win32
 		{726D17ED-C8AE-49E4-B536-E0FE6AB889F4}.Release|x86.Build.0 = Release|Win32
+		{A098852C-54B1-4D8A-A02C-502610840AC2}.Debug|x64.ActiveCfg = Debug|x64
+		{A098852C-54B1-4D8A-A02C-502610840AC2}.Debug|x64.Build.0 = Debug|x64
+		{A098852C-54B1-4D8A-A02C-502610840AC2}.Debug|x86.ActiveCfg = Debug|Win32
+		{A098852C-54B1-4D8A-A02C-502610840AC2}.Debug|x86.Build.0 = Debug|Win32
+		{A098852C-54B1-4D8A-A02C-502610840AC2}.Release|x64.ActiveCfg = Release|x64
+		{A098852C-54B1-4D8A-A02C-502610840AC2}.Release|x64.Build.0 = Release|x64
+		{A098852C-54B1-4D8A-A02C-502610840AC2}.Release|x86.ActiveCfg = Release|Win32
+		{A098852C-54B1-4D8A-A02C-502610840AC2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
