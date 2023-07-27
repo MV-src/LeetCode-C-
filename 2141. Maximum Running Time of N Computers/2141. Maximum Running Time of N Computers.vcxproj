@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6ff62bf5-2652-48e8-8a77-d1758efad982}</ProjectGuid>
-    <RootNamespace>My1721SwappingNodesinaLinkedList</RootNamespace>
+    <ProjectGuid>{221a94d5-794d-42e3-85be-635c1712ef2d}</ProjectGuid>
+    <RootNamespace>My2141MaximumRunningTimeofNComputers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
