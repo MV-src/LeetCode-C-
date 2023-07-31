@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <unordered_map>
 using namespace std;
 
 /*class Solution {
@@ -42,7 +43,7 @@ public:
     }
 };*/
 
-class Solution {
+/*class Solution {
 public:
     long long help(int i, int j, string& s1, string& s2, vector<vector<int>>& dp) {
         if (i == s1.size() && j == s2.size())return 0;
@@ -72,6 +73,56 @@ public:
     int minimumDeleteSum(string s1, string s2) {
         vector<vector<int>>dp(s1.size(), vector<int>(s2.size(), -1));
         return help(0, 0, s1, s2, dp);
+    }
+};*/
+
+struct hash_pair {
+    template <class T1, class T2>
+    size_t operator()(const pair<T1, T2>& p) const
+    {
+        auto hash1 = hash<T1>{}(p.first);
+        auto hash2 = hash<T2>{}(p.second);
+
+        if (hash1 != hash2) {
+            return hash1 ^ hash2;
+        }
+
+        // If hash1 == hash2, their XOR is zero.
+        return hash1;
+    }
+};
+
+class Solution {
+public:
+    int fun(string s1, string s2,int i,int j, int size1, int size2, unordered_map<pair<int, int>, int, hash_pair>& dp) {
+        int res = 0;
+        if (dp.find(make_pair(i,j)) != dp.end()) return dp[make_pair(i, j)];
+        if (i >= size1 && j >= size2) return dp[{i, j}] = 0;
+        if (i >= size1) {
+            for (; j < size2; j++) {
+                res += s2[j];
+            }
+            return dp[{i, j}]=res;
+        }
+
+        if (j >= size2) {
+            for (; i < size1; i++) {
+                res += s1[i];
+            }
+            return dp[{i, j}] = res;
+        }
+        if (s1[i] == s2[j]) return dp[{i, j}]=fun(s1, s2, i + 1, j + 1, size1, size2, dp);
+        res = INT32_MAX;
+        
+        res = min((int)s1[i]+fun(s1,s2,i+1,j,size1,size2,dp), (int)s2[j]+fun(s1, s2, i, j+1, size1, size2, dp));
+        res = min(res, (int)s1[i]+(int)s2[j]+fun(s1, s2, i + 1, j+1, size1, size2, dp));
+        return dp[{i, j}]=res;
+    }
+
+
+    int minimumDeleteSum(string s1, string s2) {
+        unordered_map<pair<int, int>, int,hash_pair> dp;
+        return fun(s1, s2,0,0, s1.length(), s2.length(), dp);
     }
 };
 
