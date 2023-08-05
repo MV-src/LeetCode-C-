@@ -131,6 +131,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "139. Word Break", "139. Wor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "95. Unique Binary Search Trees II", "95. Unique Binary Search Trees II\95. Unique Binary Search Trees II.vcxproj", "{C301836B-6941-4F75-B5ED-12322AEB83AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "96. Unique Binary Search Trees", "96. Unique Binary Search Trees\96. Unique Binary Search Trees.vcxproj", "{F40FD710-596E-4131-A8E2-0C32FBE118FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -651,6 +653,14 @@ Global
 		{C301836B-6941-4F75-B5ED-12322AEB83AF}.Release|x64.Build.0 = Release|x64
 		{C301836B-6941-4F75-B5ED-12322AEB83AF}.Release|x86.ActiveCfg = Release|Win32
 		{C301836B-6941-4F75-B5ED-12322AEB83AF}.Release|x86.Build.0 = Release|Win32
+		{F40FD710-596E-4131-A8E2-0C32FBE118FD}.Debug|x64.ActiveCfg = Debug|x64
+		{F40FD710-596E-4131-A8E2-0C32FBE118FD}.Debug|x64.Build.0 = Debug|x64
+		{F40FD710-596E-4131-A8E2-0C32FBE118FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F40FD710-596E-4131-A8E2-0C32FBE118FD}.Debug|x86.Build.0 = Debug|Win32
+		{F40FD710-596E-4131-A8E2-0C32FBE118FD}.Release|x64.ActiveCfg = Release|x64
+		{F40FD710-596E-4131-A8E2-0C32FBE118FD}.Release|x64.Build.0 = Release|x64
+		{F40FD710-596E-4131-A8E2-0C32FBE118FD}.Release|x86.ActiveCfg = Release|Win32
+		{F40FD710-596E-4131-A8E2-0C32FBE118FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
