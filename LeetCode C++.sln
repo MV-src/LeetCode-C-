@@ -173,6 +173,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "646. Maximum Length of Pair
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "225. Implement Stack using Queues", "225. Implement Stack using Queues\225. Implement Stack using Queues.vcxproj", "{8A28CF5A-070F-4535-923D-621D3296AFFB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2483. Minimum Penalty for a Shop", "2483. Minimum Penalty for a Shop\2483. Minimum Penalty for a Shop.vcxproj", "{7E853147-B0A9-454E-BC3F-56B250CBB869}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2366. Minimum Replacements to Sort the Array", "2366. Minimum Replacements to Sort the Array\2366. Minimum Replacements to Sort the Array.vcxproj", "{164BBCDF-D79A-4678-9F31-06B679E9655B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -861,6 +865,22 @@ Global
 		{8A28CF5A-070F-4535-923D-621D3296AFFB}.Release|x64.Build.0 = Release|x64
 		{8A28CF5A-070F-4535-923D-621D3296AFFB}.Release|x86.ActiveCfg = Release|Win32
 		{8A28CF5A-070F-4535-923D-621D3296AFFB}.Release|x86.Build.0 = Release|Win32
+		{7E853147-B0A9-454E-BC3F-56B250CBB869}.Debug|x64.ActiveCfg = Debug|x64
+		{7E853147-B0A9-454E-BC3F-56B250CBB869}.Debug|x64.Build.0 = Debug|x64
+		{7E853147-B0A9-454E-BC3F-56B250CBB869}.Debug|x86.ActiveCfg = Debug|Win32
+		{7E853147-B0A9-454E-BC3F-56B250CBB869}.Debug|x86.Build.0 = Debug|Win32
+		{7E853147-B0A9-454E-BC3F-56B250CBB869}.Release|x64.ActiveCfg = Release|x64
+		{7E853147-B0A9-454E-BC3F-56B250CBB869}.Release|x64.Build.0 = Release|x64
+		{7E853147-B0A9-454E-BC3F-56B250CBB869}.Release|x86.ActiveCfg = Release|Win32
+		{7E853147-B0A9-454E-BC3F-56B250CBB869}.Release|x86.Build.0 = Release|Win32
+		{164BBCDF-D79A-4678-9F31-06B679E9655B}.Debug|x64.ActiveCfg = Debug|x64
+		{164BBCDF-D79A-4678-9F31-06B679E9655B}.Debug|x64.Build.0 = Debug|x64
+		{164BBCDF-D79A-4678-9F31-06B679E9655B}.Debug|x86.ActiveCfg = Debug|Win32
+		{164BBCDF-D79A-4678-9F31-06B679E9655B}.Debug|x86.Build.0 = Debug|Win32
+		{164BBCDF-D79A-4678-9F31-06B679E9655B}.Release|x64.ActiveCfg = Release|x64
+		{164BBCDF-D79A-4678-9F31-06B679E9655B}.Release|x64.Build.0 = Release|x64
+		{164BBCDF-D79A-4678-9F31-06B679E9655B}.Release|x86.ActiveCfg = Release|Win32
+		{164BBCDF-D79A-4678-9F31-06B679E9655B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
