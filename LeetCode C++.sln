@@ -187,6 +187,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "62. Unique Paths", "62. Uni
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "141. Linked List Cycle", "141. Linked List Cycle\141. Linked List Cycle.vcxproj", "{B0E8DE49-6779-48CB-A1AA-C14428DA41A4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "138. Copy List with Random Pointer", "138. Copy List with Random Pointer\138. Copy List with Random Pointer.vcxproj", "{761770B6-0122-4748-B7DE-EDC4C9B5E910}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -931,6 +933,14 @@ Global
 		{B0E8DE49-6779-48CB-A1AA-C14428DA41A4}.Release|x64.Build.0 = Release|x64
 		{B0E8DE49-6779-48CB-A1AA-C14428DA41A4}.Release|x86.ActiveCfg = Release|Win32
 		{B0E8DE49-6779-48CB-A1AA-C14428DA41A4}.Release|x86.Build.0 = Release|Win32
+		{761770B6-0122-4748-B7DE-EDC4C9B5E910}.Debug|x64.ActiveCfg = Debug|x64
+		{761770B6-0122-4748-B7DE-EDC4C9B5E910}.Debug|x64.Build.0 = Debug|x64
+		{761770B6-0122-4748-B7DE-EDC4C9B5E910}.Debug|x86.ActiveCfg = Debug|Win32
+		{761770B6-0122-4748-B7DE-EDC4C9B5E910}.Debug|x86.Build.0 = Debug|Win32
+		{761770B6-0122-4748-B7DE-EDC4C9B5E910}.Release|x64.ActiveCfg = Release|x64
+		{761770B6-0122-4748-B7DE-EDC4C9B5E910}.Release|x64.Build.0 = Release|x64
+		{761770B6-0122-4748-B7DE-EDC4C9B5E910}.Release|x86.ActiveCfg = Release|Win32
+		{761770B6-0122-4748-B7DE-EDC4C9B5E910}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
