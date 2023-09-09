@@ -197,6 +197,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "92. Reverse Linked List II"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.vcxproj", "{801FF1DE-B80B-46BC-A632-674BBB957841}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "377. Combination Sum IV", "377. Combination Sum IV\377. Combination Sum IV.vcxproj", "{F4D1A5B1-F4EF-4936-8C6B-DDD368D6AD2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -981,6 +983,14 @@ Global
 		{801FF1DE-B80B-46BC-A632-674BBB957841}.Release|x64.Build.0 = Release|x64
 		{801FF1DE-B80B-46BC-A632-674BBB957841}.Release|x86.ActiveCfg = Release|Win32
 		{801FF1DE-B80B-46BC-A632-674BBB957841}.Release|x86.Build.0 = Release|Win32
+		{F4D1A5B1-F4EF-4936-8C6B-DDD368D6AD2C}.Debug|x64.ActiveCfg = Debug|x64
+		{F4D1A5B1-F4EF-4936-8C6B-DDD368D6AD2C}.Debug|x64.Build.0 = Debug|x64
+		{F4D1A5B1-F4EF-4936-8C6B-DDD368D6AD2C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4D1A5B1-F4EF-4936-8C6B-DDD368D6AD2C}.Debug|x86.Build.0 = Debug|Win32
+		{F4D1A5B1-F4EF-4936-8C6B-DDD368D6AD2C}.Release|x64.ActiveCfg = Release|x64
+		{F4D1A5B1-F4EF-4936-8C6B-DDD368D6AD2C}.Release|x64.Build.0 = Release|x64
+		{F4D1A5B1-F4EF-4936-8C6B-DDD368D6AD2C}.Release|x86.ActiveCfg = Release|Win32
+		{F4D1A5B1-F4EF-4936-8C6B-DDD368D6AD2C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
