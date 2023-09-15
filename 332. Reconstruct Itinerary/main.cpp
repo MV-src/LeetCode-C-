@@ -99,7 +99,7 @@ public:
 };
 
 int main() {
-    vector<vector<string>> v{ {"JFK","SFO"}, {"JFK","ATL"}, {"SFO","ATL"}, {"ATL","JFK"}, {"ATL","SFO"} };
+    vector<vector<string>> v{ {"JFK","KUL"}, {"JFK","NRT"}, {"NRT","JFK"} };
     Solution s;
     s.findItinerary(v);
 

@@ -207,6 +207,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "135. Candy", "135. Candy\13
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "332. Reconstruct Itinerary", "332. Reconstruct Itinerary\332. Reconstruct Itinerary.vcxproj", "{093E478D-0DE3-4D3B-969D-1967864E4371}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1584. Min Cost to Connect All Points", "1584. Min Cost to Connect All Points\1584. Min Cost to Connect All Points.vcxproj", "{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1031,6 +1033,14 @@ Global
 		{093E478D-0DE3-4D3B-969D-1967864E4371}.Release|x64.Build.0 = Release|x64
 		{093E478D-0DE3-4D3B-969D-1967864E4371}.Release|x86.ActiveCfg = Release|Win32
 		{093E478D-0DE3-4D3B-969D-1967864E4371}.Release|x86.Build.0 = Release|Win32
+		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Debug|x64.ActiveCfg = Debug|x64
+		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Debug|x64.Build.0 = Debug|x64
+		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Debug|x86.Build.0 = Debug|Win32
+		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Release|x64.ActiveCfg = Release|x64
+		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Release|x64.Build.0 = Release|x64
+		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Release|x86.ActiveCfg = Release|Win32
+		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
