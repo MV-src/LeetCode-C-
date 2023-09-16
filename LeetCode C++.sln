@@ -209,6 +209,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "332. Reconstruct Itinerary"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1584. Min Cost to Connect All Points", "1584. Min Cost to Connect All Points\1584. Min Cost to Connect All Points.vcxproj", "{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1631. Path With Minimum Effort", "1631. Path With Minimum Effort\1631. Path With Minimum Effort.vcxproj", "{31AE081B-FAB1-4047-9827-33242F103A0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1041,6 +1043,14 @@ Global
 		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Release|x64.Build.0 = Release|x64
 		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Release|x86.ActiveCfg = Release|Win32
 		{A70E8A51-3498-49F0-A2BB-61DDE8C4B9B4}.Release|x86.Build.0 = Release|Win32
+		{31AE081B-FAB1-4047-9827-33242F103A0A}.Debug|x64.ActiveCfg = Debug|x64
+		{31AE081B-FAB1-4047-9827-33242F103A0A}.Debug|x64.Build.0 = Debug|x64
+		{31AE081B-FAB1-4047-9827-33242F103A0A}.Debug|x86.ActiveCfg = Debug|Win32
+		{31AE081B-FAB1-4047-9827-33242F103A0A}.Debug|x86.Build.0 = Debug|Win32
+		{31AE081B-FAB1-4047-9827-33242F103A0A}.Release|x64.ActiveCfg = Release|x64
+		{31AE081B-FAB1-4047-9827-33242F103A0A}.Release|x64.Build.0 = Release|x64
+		{31AE081B-FAB1-4047-9827-33242F103A0A}.Release|x86.ActiveCfg = Release|Win32
+		{31AE081B-FAB1-4047-9827-33242F103A0A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
