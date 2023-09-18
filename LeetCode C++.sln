@@ -211,6 +211,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1584. Min Cost to Connect A
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1631. Path With Minimum Effort", "1631. Path With Minimum Effort\1631. Path With Minimum Effort.vcxproj", "{31AE081B-FAB1-4047-9827-33242F103A0A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1337. The K Weakest Rows in a Matrix", "1337. The K Weakest Rows in a Matrix\1337. The K Weakest Rows in a Matrix.vcxproj", "{40A8CFAE-91C8-4693-BC2C-59E93A09B057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1051,6 +1053,14 @@ Global
 		{31AE081B-FAB1-4047-9827-33242F103A0A}.Release|x64.Build.0 = Release|x64
 		{31AE081B-FAB1-4047-9827-33242F103A0A}.Release|x86.ActiveCfg = Release|Win32
 		{31AE081B-FAB1-4047-9827-33242F103A0A}.Release|x86.Build.0 = Release|Win32
+		{40A8CFAE-91C8-4693-BC2C-59E93A09B057}.Debug|x64.ActiveCfg = Debug|x64
+		{40A8CFAE-91C8-4693-BC2C-59E93A09B057}.Debug|x64.Build.0 = Debug|x64
+		{40A8CFAE-91C8-4693-BC2C-59E93A09B057}.Debug|x86.ActiveCfg = Debug|Win32
+		{40A8CFAE-91C8-4693-BC2C-59E93A09B057}.Debug|x86.Build.0 = Debug|Win32
+		{40A8CFAE-91C8-4693-BC2C-59E93A09B057}.Release|x64.ActiveCfg = Release|x64
+		{40A8CFAE-91C8-4693-BC2C-59E93A09B057}.Release|x64.Build.0 = Release|x64
+		{40A8CFAE-91C8-4693-BC2C-59E93A09B057}.Release|x86.ActiveCfg = Release|Win32
+		{40A8CFAE-91C8-4693-BC2C-59E93A09B057}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
