@@ -233,6 +233,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "905. Sort Array By Parity",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "896. Monotonic Array", "896. Monotonic Array\896. Monotonic Array.vcxproj", "{4E7D01A7-7C53-4AD1-94EB-C143B5AACA3E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "557. Reverse Words in a String III", "557. Reverse Words in a String III\557. Reverse Words in a String III.vcxproj", "{E8F02FF4-6A38-4180-B50F-C1A97D6FADF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1161,6 +1163,14 @@ Global
 		{4E7D01A7-7C53-4AD1-94EB-C143B5AACA3E}.Release|x64.Build.0 = Release|x64
 		{4E7D01A7-7C53-4AD1-94EB-C143B5AACA3E}.Release|x86.ActiveCfg = Release|Win32
 		{4E7D01A7-7C53-4AD1-94EB-C143B5AACA3E}.Release|x86.Build.0 = Release|Win32
+		{E8F02FF4-6A38-4180-B50F-C1A97D6FADF4}.Debug|x64.ActiveCfg = Debug|x64
+		{E8F02FF4-6A38-4180-B50F-C1A97D6FADF4}.Debug|x64.Build.0 = Debug|x64
+		{E8F02FF4-6A38-4180-B50F-C1A97D6FADF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8F02FF4-6A38-4180-B50F-C1A97D6FADF4}.Debug|x86.Build.0 = Debug|Win32
+		{E8F02FF4-6A38-4180-B50F-C1A97D6FADF4}.Release|x64.ActiveCfg = Release|x64
+		{E8F02FF4-6A38-4180-B50F-C1A97D6FADF4}.Release|x64.Build.0 = Release|x64
+		{E8F02FF4-6A38-4180-B50F-C1A97D6FADF4}.Release|x86.ActiveCfg = Release|Win32
+		{E8F02FF4-6A38-4180-B50F-C1A97D6FADF4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
