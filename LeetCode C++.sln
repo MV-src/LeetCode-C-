@@ -245,6 +245,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "229. Majority Element II", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "343. Integer Break", "343. Integer Break\343. Integer Break.vcxproj", "{07B8CF1D-5D98-42D1-BC47-271901FD4938}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34. Find First and Last Position of Element in Sorted Array", "34. Find First and Last Position of Element in Sorted Array\34. Find First and Last Position of Element in Sorted Array.vcxproj", "{CF4417D4-7884-428F-8D2A-F43BDCE6C587}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1221,6 +1223,14 @@ Global
 		{07B8CF1D-5D98-42D1-BC47-271901FD4938}.Release|x64.Build.0 = Release|x64
 		{07B8CF1D-5D98-42D1-BC47-271901FD4938}.Release|x86.ActiveCfg = Release|Win32
 		{07B8CF1D-5D98-42D1-BC47-271901FD4938}.Release|x86.Build.0 = Release|Win32
+		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Debug|x64.ActiveCfg = Debug|x64
+		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Debug|x64.Build.0 = Debug|x64
+		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Debug|x86.Build.0 = Debug|Win32
+		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Release|x64.ActiveCfg = Release|x64
+		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Release|x64.Build.0 = Release|x64
+		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Release|x86.ActiveCfg = Release|Win32
+		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
