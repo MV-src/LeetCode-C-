@@ -247,6 +247,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "343. Integer Break", "343. 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34. Find First and Last Position of Element in Sorted Array", "34. Find First and Last Position of Element in Sorted Array\34. Find First and Last Position of Element in Sorted Array.vcxproj", "{CF4417D4-7884-428F-8D2A-F43BDCE6C587}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2251. Number of Flowers in Full Bloom", "2251. Number of Flowers in Full Bloom\2251. Number of Flowers in Full Bloom.vcxproj", "{7265F3A1-725A-4F94-9132-FE43E1C9848F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1231,6 +1233,14 @@ Global
 		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Release|x64.Build.0 = Release|x64
 		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Release|x86.ActiveCfg = Release|Win32
 		{CF4417D4-7884-428F-8D2A-F43BDCE6C587}.Release|x86.Build.0 = Release|Win32
+		{7265F3A1-725A-4F94-9132-FE43E1C9848F}.Debug|x64.ActiveCfg = Debug|x64
+		{7265F3A1-725A-4F94-9132-FE43E1C9848F}.Debug|x64.Build.0 = Debug|x64
+		{7265F3A1-725A-4F94-9132-FE43E1C9848F}.Debug|x86.ActiveCfg = Debug|Win32
+		{7265F3A1-725A-4F94-9132-FE43E1C9848F}.Debug|x86.Build.0 = Debug|Win32
+		{7265F3A1-725A-4F94-9132-FE43E1C9848F}.Release|x64.ActiveCfg = Release|x64
+		{7265F3A1-725A-4F94-9132-FE43E1C9848F}.Release|x64.Build.0 = Release|x64
+		{7265F3A1-725A-4F94-9132-FE43E1C9848F}.Release|x86.ActiveCfg = Release|Win32
+		{7265F3A1-725A-4F94-9132-FE43E1C9848F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
