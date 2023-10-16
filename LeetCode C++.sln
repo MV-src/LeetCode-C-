@@ -251,6 +251,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2251. Number of Flowers in 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "746. Min Cost Climbing Stairs", "746. Min Cost Climbing Stairs\746. Min Cost Climbing Stairs.vcxproj", "{6772F1FA-26A8-47A4-83BE-14543D6AE7BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "119. Pascal's Triangle II", "119. Pascal's Triangle II\119. Pascal's Triangle II.vcxproj", "{88CE0796-422E-4A32-82EE-3863C968C712}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1251,6 +1253,14 @@ Global
 		{6772F1FA-26A8-47A4-83BE-14543D6AE7BC}.Release|x64.Build.0 = Release|x64
 		{6772F1FA-26A8-47A4-83BE-14543D6AE7BC}.Release|x86.ActiveCfg = Release|Win32
 		{6772F1FA-26A8-47A4-83BE-14543D6AE7BC}.Release|x86.Build.0 = Release|Win32
+		{88CE0796-422E-4A32-82EE-3863C968C712}.Debug|x64.ActiveCfg = Debug|x64
+		{88CE0796-422E-4A32-82EE-3863C968C712}.Debug|x64.Build.0 = Debug|x64
+		{88CE0796-422E-4A32-82EE-3863C968C712}.Debug|x86.ActiveCfg = Debug|Win32
+		{88CE0796-422E-4A32-82EE-3863C968C712}.Debug|x86.Build.0 = Debug|Win32
+		{88CE0796-422E-4A32-82EE-3863C968C712}.Release|x64.ActiveCfg = Release|x64
+		{88CE0796-422E-4A32-82EE-3863C968C712}.Release|x64.Build.0 = Release|x64
+		{88CE0796-422E-4A32-82EE-3863C968C712}.Release|x86.ActiveCfg = Release|Win32
+		{88CE0796-422E-4A32-82EE-3863C968C712}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
